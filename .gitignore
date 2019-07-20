@@ -1,0 +1,11 @@
+*.class
+#package file
+*.war
+*.ear
+#maven ignore
+target/
+*idea
+.idea/
+/idea/
+*.iml
+*.log
